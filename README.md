@@ -64,3 +64,4 @@ Unauthorized use of this script to access or exfiltrate data from systems withou
 License
 
 This project is licensed under the MIT License. Unauthorized selling or distribution of this project is strictly prohibited.
+![2025-05-17 20_48_01-NVIDIA GeForce Overlay DT](https://github.com/user-attachments/assets/ea9413ca-c6e3-44dc-bc85-c43348e1a2e8)
