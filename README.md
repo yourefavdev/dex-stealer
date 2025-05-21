@@ -1,5 +1,16 @@
 # dex-stealer
 token and browser stealer example
+
+UPDATE NEW STEALER V2
+Recent Changes to Stealer Functionality:
+
+Added Functions:
+Startup Persistence: Functionality to add the script to Windows startup via the registry was implemented.
+Expanded Browser Support (for Passwords & History):
+Support was explicitly added/confirmed for: Brave and Vivaldi, in addition to existing support for Chrome, Edge, and Opera (including Opera GX).
+Removed Functions (from the core stealer.py to be made optional by the builder):
+Cookie Stealer: The dedicated cookie stealing functionality (cookies_grabber_mod and its direct calls/outputs) was removed from the main stealer script, with the intention that the builder could optionally re-include it if the stealer_template.py is prepared with markers for cookie code.
+
 Disclaimer
 
 This project is intended for ethical purposes only. The use of this software is strictly prohibited for malicious purposes, unauthorized data collection, or unauthorized access to any systems or personal data. The developer, Dex/D3xoncpvp, will not be held responsible for any misuse of this project. Unauthorized selling, distribution, or modification of this source code is also strictly prohibited.
