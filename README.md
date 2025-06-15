@@ -71,8 +71,7 @@ python main.py
 Legal Notice
 
 Unauthorized use of this script to access or exfiltrate data from systems without proper authorization is illegal and against the terms of service of most platforms. Ensure you have proper consent and legal rights to access any data using this tool.
-
 License
-
 This project is licensed under the MIT License. Unauthorized selling or distribution of this project is strictly prohibited.
+
 ![2025-05-17 20_48_01-NVIDIA GeForce Overlay DT](https://github.com/user-attachments/assets/ea9413ca-c6e3-44dc-bc85-c43348e1a2e8)
